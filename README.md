@@ -1,1 +1,1 @@
-# Atificial-Inte-ectures
+# Artificial Intelligence lectures
